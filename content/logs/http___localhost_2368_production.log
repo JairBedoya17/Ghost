@@ -1,0 +1,40 @@
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Creating table: posts","time":"2019-11-06T19:34:08.475Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Creating table: posts_meta","time":"2019-11-06T19:34:08.497Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Creating table: users","time":"2019-11-06T19:34:08.512Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Creating table: posts_authors","time":"2019-11-06T19:34:08.530Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Creating table: roles","time":"2019-11-06T19:34:08.547Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Creating table: roles_users","time":"2019-11-06T19:34:08.561Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Creating table: permissions","time":"2019-11-06T19:34:08.570Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Creating table: permissions_users","time":"2019-11-06T19:34:08.586Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Creating table: permissions_roles","time":"2019-11-06T19:34:08.594Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Creating table: permissions_apps","time":"2019-11-06T19:34:08.603Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Creating table: settings","time":"2019-11-06T19:34:08.612Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Creating table: tags","time":"2019-11-06T19:34:08.623Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Creating table: posts_tags","time":"2019-11-06T19:34:08.637Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Creating table: apps","time":"2019-11-06T19:34:08.652Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Creating table: app_settings","time":"2019-11-06T19:34:08.681Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Creating table: app_fields","time":"2019-11-06T19:34:08.699Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Creating table: invites","time":"2019-11-06T19:34:08.714Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Creating table: brute","time":"2019-11-06T19:34:08.745Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Creating table: webhooks","time":"2019-11-06T19:34:08.754Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Creating table: sessions","time":"2019-11-06T19:34:08.763Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Creating table: integrations","time":"2019-11-06T19:34:08.787Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Creating table: api_keys","time":"2019-11-06T19:34:08.807Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Creating table: mobiledoc_revisions","time":"2019-11-06T19:34:08.838Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Creating table: members","time":"2019-11-06T19:34:08.860Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Creating table: members_stripe_customers","time":"2019-11-06T19:34:08.878Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Creating table: members_stripe_customers_subscriptions","time":"2019-11-06T19:34:08.892Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Creating table: actions","time":"2019-11-06T19:34:08.909Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Model: Tag","time":"2019-11-06T19:34:08.928Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Model: Role","time":"2019-11-06T19:34:08.954Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Model: Permission","time":"2019-11-06T19:34:08.995Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Model: User","time":"2019-11-06T19:34:09.250Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Model: Post","time":"2019-11-06T19:34:09.587Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Model: Integration","time":"2019-11-06T19:34:09.818Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Relation: Role to Permission","time":"2019-11-06T19:34:09.869Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Relation: Post to Tag","time":"2019-11-06T19:34:10.176Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Relation: User to Role","time":"2019-11-06T19:34:10.217Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Ghost is running in production...","time":"2019-11-06T19:34:12.706Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Your site is now available on http://localhost:2368/","time":"2019-11-06T19:34:12.707Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Ctrl+C to shut down","time":"2019-11-06T19:34:12.708Z","v":0}
+{"name":"Log","hostname":"88967707db03","pid":1,"level":30,"msg":"Ghost boot 5.382s","time":"2019-11-06T19:34:12.711Z","v":0}
